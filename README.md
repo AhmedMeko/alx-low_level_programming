@@ -1,2 +1,1 @@
-# alx-low_level_programming
-hello low level 
+0x00. C - Hello, World
