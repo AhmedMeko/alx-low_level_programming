@@ -3,8 +3,10 @@
 /*
  * Task 0 What is My name 
  */
-int main (int argc *argv[]){
-	
-	return (0);
-}
+#include <stdio.h>
 
+int main (void)
+{
+	printf("test");
+  return 0;
+}
